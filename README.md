@@ -1,6 +1,6 @@
 # E-Commerce Data Analysis with Elasticsearch
 
-## Project Description
+## Project Description 
 
 This project entails comprehensive analysis of e-commerce data using SQLite and Elasticsearch. It begins with importing the Kaggle E-commerce dataset into SQLite, followed by SQL queries to explore key attributes, patterns, and conduct basic data cleaning. The focus then shifts to Elasticsearch for indexing and querying the dataset, facilitating further exploration and analysis.
 
